@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\AysunClass\AysunClass\obj\Debug\net8.0\AysunClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\AysunClass\AysunClass\obj\Debug\net8.0\AysunClass.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\AysunClass\AysunClass\obj\Debug\net8.0\AysunClass.AssemblyInfo.cs
+C:\Users\Asus\source\repos\AysunClass\AysunClass\obj\Debug\net8.0\AysunClass.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AysunClass\AysunClass\bin\Debug\net8.0\AysunClass.exe
+C:\Users\Asus\source\repos\AysunClass\AysunClass\bin\Debug\net8.0\AysunClass.deps.json
+C:\Users\Asus\source\repos\AysunClass\AysunClass\bin\Debug\net8.0\AysunClass.runtimeconfig.json
+C:\Users\Asus\source\repos\AysunClass\AysunClass\bin\Debug\net8.0\AysunClass.dll
+C:\Users\Asus\source\repos\AysunClass\AysunClass\bin\Debug\net8.0\AysunClass.pdb
+C:\Users\Asus\source\repos\AysunClass\AysunClass\obj\Debug\net8.0\AysunClass.dll
+C:\Users\Asus\source\repos\AysunClass\AysunClass\obj\Debug\net8.0\refint\AysunClass.dll
+C:\Users\Asus\source\repos\AysunClass\AysunClass\obj\Debug\net8.0\AysunClass.pdb
+C:\Users\Asus\source\repos\AysunClass\AysunClass\obj\Debug\net8.0\AysunClass.genruntimeconfig.cache
+C:\Users\Asus\source\repos\AysunClass\AysunClass\obj\Debug\net8.0\ref\AysunClass.dll
