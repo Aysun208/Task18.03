@@ -12,3 +12,4 @@ C:\Users\Asus\source\repos\AysunClass\AysunClass\obj\Debug\net8.0\refint\AysunCl
 C:\Users\Asus\source\repos\AysunClass\AysunClass\obj\Debug\net8.0\AysunClass.pdb
 C:\Users\Asus\source\repos\AysunClass\AysunClass\obj\Debug\net8.0\AysunClass.genruntimeconfig.cache
 C:\Users\Asus\source\repos\AysunClass\AysunClass\obj\Debug\net8.0\ref\AysunClass.dll
+C:\Users\Asus\source\repos\AysunClass\AysunClass\obj\Debug\net8.0\AysunClass.sourcelink.json
